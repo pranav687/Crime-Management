@@ -1,0 +1,1 @@
+﻿INSERT INTO [Criminal] (CriminalName, CrimeType, Age, Gender, CrimeAddress, Complaint, CrimeDate) VALUES ('abcd','abcd','abcd','abcd','abcd','abcd','abcd')

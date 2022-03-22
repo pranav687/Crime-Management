@@ -1,0 +1,148 @@
+D:\SEM-6\WebClient\bin\WebClient.dll.config
+D:\SEM-6\WebClient\bin\WebClient.dll
+D:\SEM-6\WebClient\bin\WebClient.pdb
+D:\SEM-6\WebClient\bin\roslyn\csc.exe
+D:\SEM-6\WebClient\bin\roslyn\csc.exe.config
+D:\SEM-6\WebClient\bin\roslyn\csc.rsp
+D:\SEM-6\WebClient\bin\roslyn\csi.exe
+D:\SEM-6\WebClient\bin\roslyn\csi.exe.config
+D:\SEM-6\WebClient\bin\roslyn\csi.rsp
+D:\SEM-6\WebClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SEM-6\WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SEM-6\WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SEM-6\WebClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SEM-6\WebClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SEM-6\WebClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SEM-6\WebClient\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SEM-6\WebClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SEM-6\WebClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SEM-6\WebClient\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SEM-6\WebClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SEM-6\WebClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SEM-6\WebClient\bin\roslyn\System.AppContext.dll
+D:\SEM-6\WebClient\bin\roslyn\System.Collections.Immutable.dll
+D:\SEM-6\WebClient\bin\roslyn\System.Console.dll
+D:\SEM-6\WebClient\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\SEM-6\WebClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SEM-6\WebClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SEM-6\WebClient\bin\roslyn\System.Globalization.Calendars.dll
+D:\SEM-6\WebClient\bin\roslyn\System.IO.Compression.dll
+D:\SEM-6\WebClient\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\SEM-6\WebClient\bin\roslyn\System.IO.FileSystem.dll
+D:\SEM-6\WebClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SEM-6\WebClient\bin\roslyn\System.Net.Http.dll
+D:\SEM-6\WebClient\bin\roslyn\System.Net.Sockets.dll
+D:\SEM-6\WebClient\bin\roslyn\System.Reflection.Metadata.dll
+D:\SEM-6\WebClient\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SEM-6\WebClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SEM-6\WebClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SEM-6\WebClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SEM-6\WebClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SEM-6\WebClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SEM-6\WebClient\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SEM-6\WebClient\bin\roslyn\System.ValueTuple.dll
+D:\SEM-6\WebClient\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SEM-6\WebClient\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SEM-6\WebClient\bin\roslyn\System.Xml.XPath.dll
+D:\SEM-6\WebClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SEM-6\WebClient\bin\roslyn\vbc.exe
+D:\SEM-6\WebClient\bin\roslyn\vbc.exe.config
+D:\SEM-6\WebClient\bin\roslyn\vbc.rsp
+D:\SEM-6\WebClient\bin\roslyn\VBCSCompiler.exe
+D:\SEM-6\WebClient\bin\roslyn\VBCSCompiler.exe.config
+D:\SEM-6\WebClient\bin\Antlr3.Runtime.dll
+D:\SEM-6\WebClient\bin\AspNet.ScriptManager.bootstrap.dll
+D:\SEM-6\WebClient\bin\AspNet.ScriptManager.jQuery.dll
+D:\SEM-6\WebClient\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\SEM-6\WebClient\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\SEM-6\WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SEM-6\WebClient\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\SEM-6\WebClient\bin\Microsoft.ScriptManager.WebForms.dll
+D:\SEM-6\WebClient\bin\Microsoft.Web.Infrastructure.dll
+D:\SEM-6\WebClient\bin\Newtonsoft.Json.dll
+D:\SEM-6\WebClient\bin\System.Web.Optimization.dll
+D:\SEM-6\WebClient\bin\WebGrease.dll
+D:\SEM-6\WebClient\bin\System.Web.Optimization.xml
+D:\SEM-6\WebClient\bin\Newtonsoft.Json.xml
+D:\SEM-6\WebClient\bin\Antlr3.Runtime.pdb
+D:\SEM-6\WebClient\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\SEM-6\WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SEM-6\WebClient\obj\Debug\WebClient.csproj.AssemblyReference.cache
+D:\SEM-6\WebClient\obj\Debug\WebClient.csproj.CoreCompileInputs.cache
+D:\SEM-6\WebClient\obj\Debug\WebClient.csproj.CopyComplete
+D:\SEM-6\WebClient\obj\Debug\WebClient.dll
+D:\SEM-6\WebClient\obj\Debug\WebClient.pdb
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\WebClient.dll.config
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\WebClient.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\WebClient.pdb
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\csc.exe
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\csc.exe.config
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\csc.rsp
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\csi.exe
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\csi.exe.config
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\csi.rsp
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.AppContext.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.Collections.Immutable.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.Console.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.Globalization.Calendars.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.IO.Compression.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.IO.FileSystem.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.Net.Http.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.Net.Sockets.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.ValueTuple.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.Xml.XPath.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\vbc.exe
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\vbc.exe.config
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\vbc.rsp
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\VBCSCompiler.exe
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\roslyn\VBCSCompiler.exe.config
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\Antlr3.Runtime.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\AspNet.ScriptManager.jQuery.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\Microsoft.Web.Infrastructure.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\Newtonsoft.Json.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\System.Web.Optimization.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\WebGrease.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\System.Web.Optimization.xml
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\Newtonsoft.Json.xml
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\Antlr3.Runtime.pdb
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\obj\Debug\WebClient.csproj.AssemblyReference.cache
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\obj\Debug\WebClient.csproj.CoreCompileInputs.cache
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\obj\Debug\WebClient.csproj.CopyComplete
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\obj\Debug\WebClient.dll
+D:\Pranav\Sem6\SOC\SOC Project\WebClient\obj\Debug\WebClient.pdb

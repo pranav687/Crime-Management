@@ -1,0 +1,1 @@
+﻿INSERT INTO [Bus] (BusName, Source, Destination, Time) VALUES ('ab','ab','ab','ab')

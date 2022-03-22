@@ -1,0 +1,14 @@
+D:\SEM-6\CrimeManagement\bin\Debug\CrimeManagement.dll.config
+D:\SEM-6\CrimeManagement\bin\Debug\CrimeManagement.dll
+D:\SEM-6\CrimeManagement\bin\Debug\CrimeManagement.pdb
+D:\SEM-6\CrimeManagement\obj\Debug\CrimeManagement.csproj.CoreCompileInputs.cache
+D:\SEM-6\CrimeManagement\obj\Debug\CrimeManagement.dll
+D:\SEM-6\CrimeManagement\obj\Debug\CrimeManagement.pdb
+D:\SEM-6\CrimeManagement\obj\Debug\CrimeManagement.csproj.AssemblyReference.cache
+D:\Pranav\Sem6\SOC\SOC Project\CrimeManagement\bin\Debug\CrimeManagement.dll.config
+D:\Pranav\Sem6\SOC\SOC Project\CrimeManagement\bin\Debug\CrimeManagement.dll
+D:\Pranav\Sem6\SOC\SOC Project\CrimeManagement\bin\Debug\CrimeManagement.pdb
+D:\Pranav\Sem6\SOC\SOC Project\CrimeManagement\obj\Debug\CrimeManagement.csproj.CoreCompileInputs.cache
+D:\Pranav\Sem6\SOC\SOC Project\CrimeManagement\obj\Debug\CrimeManagement.dll
+D:\Pranav\Sem6\SOC\SOC Project\CrimeManagement\obj\Debug\CrimeManagement.pdb
+D:\Pranav\Sem6\SOC\SOC Project\CrimeManagement\obj\Debug\CrimeManagement.csproj.AssemblyReference.cache

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrimeManagement", "CrimeManagement.csproj", "{E03DB9A9-8F5C-4BF2-8161-07111B08AA63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClient", "..\WebClient\WebClient.csproj", "{7BBDE9FB-1C6A-47EB-95D4-309B815DF627}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E03DB9A9-8F5C-4BF2-8161-07111B08AA63} = {E03DB9A9-8F5C-4BF2-8161-07111B08AA63}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E03DB9A9-8F5C-4BF2-8161-07111B08AA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E03DB9A9-8F5C-4BF2-8161-07111B08AA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E03DB9A9-8F5C-4BF2-8161-07111B08AA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E03DB9A9-8F5C-4BF2-8161-07111B08AA63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BBDE9FB-1C6A-47EB-95D4-309B815DF627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BBDE9FB-1C6A-47EB-95D4-309B815DF627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BBDE9FB-1C6A-47EB-95D4-309B815DF627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BBDE9FB-1C6A-47EB-95D4-309B815DF627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCE74AD7-FE80-40C0-9068-7DBFDC056CFA}
+	EndGlobalSection
+EndGlobal
